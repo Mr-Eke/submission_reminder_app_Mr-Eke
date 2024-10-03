@@ -16,5 +16,5 @@ cat ../submissions.txt > assets/submissions.txt
 
 # add 5 more additional student records to submissions.txt file
 echo -e "Simeon, Shell Navigation, not submitted\nKevin, Shell Navigation, submitted\
-Eke, Shell Navigation, submitted\nSwanikar, Shell Navigation, not submitted\
+\nEke, Shell Navigation, submitted\nSwanikar, Shell Navigation, not submitted\
 \nFred, Shell Navigation, not submitted" >> assets/submissions.txt
