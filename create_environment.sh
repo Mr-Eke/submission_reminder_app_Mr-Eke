@@ -19,4 +19,5 @@ echo -e "Simeon, Shell Navigation, not submitted\nKevin, Shell Navigation, submi
 \nEke, Shell Navigation, submitted\nSwanikar, Shell Navigation, not submitted\
 \nFred, Shell Navigation, not submitted" >> assets/submissions.txt
 
+# create the startup.sh script (non empty)
 echo -e "#!/bin/bash\n\n./app/reminder.sh" > startup.sh && chmod u+x startup.sh
