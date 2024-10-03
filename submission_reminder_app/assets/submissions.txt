@@ -1,7 +1,3 @@
 student, assignment, submission status
 Herve, Shell Navigation, submitted
 Noel, Shell Navigation, not submitted
-Simeon, Shell Navigation, not submitted
-Kevin, Shell Navigation, submittedEke, Shell Navigation, submitted
-Swanikar, Shell Navigation, not submitted
-Fred, Shell Navigation, not submitted
