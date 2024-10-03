@@ -18,3 +18,5 @@ cat ../submissions.txt > assets/submissions.txt
 echo -e "Simeon, Shell Navigation, not submitted\nKevin, Shell Navigation, submitted\
 \nEke, Shell Navigation, submitted\nSwanikar, Shell Navigation, not submitted\
 \nFred, Shell Navigation, not submitted" >> assets/submissions.txt
+
+echo -e "#!/bin/bash\n\n./app/reminder.sh" > startup.sh && chmod u+x startup.sh
